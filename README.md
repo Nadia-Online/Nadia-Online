@@ -16,7 +16,7 @@ I am currently building projects using:
   
   **Data Analysis:** [SQL](https://en.wikipedia.org) | [Python](https://www.python.org)
   
-  <img src="icons/icons.png" width="1207" height="267">
+  <img src="icons.png" width="1207" height="267">
   
  
 
