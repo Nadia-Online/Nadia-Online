@@ -7,7 +7,7 @@ What sets my work apart is the combination of technical analysis and real-world 
 *   **Global Experience:** Having lived and worked across **LATAM, EMEA, and the UK**, I bring a culturally rich and diverse perspective to data interpretation and problem-solving.
 *   **Get to know me more:** Visit my online portfolio to know more about my skills and previous work at www.nadia-online.com
 
-*   
+  
   
 ### 🛠 Tech Stack
 I am currently building projects using:
